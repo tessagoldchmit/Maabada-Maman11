@@ -35,6 +35,10 @@ int main() {
     printf("Enter c (used for my_strchr):\n");
     scanf(" %c", &c);
 
+    printf("\nThe strings that were entered are %s, %s.\n", cs, ct);
+    printf("The param n equals to %d.\n", n);
+    printf("The param c equals to %d.\n", c);
+
     /* get results for all functions */
     my_strcmp_result = my_strcmp(cs, ct);
     my_strncmp_result = my_strncmp(cs, ct, n);

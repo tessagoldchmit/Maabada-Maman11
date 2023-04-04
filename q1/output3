@@ -8,6 +8,10 @@ Enter string 2:
 Enter n (used for my_strncmp):
 Enter c (used for my_strchr):
 
+The strings that were entered are abc, xyz.
+The param n equals to 1.
+The param c equals to 100.
+
 /*** my_strcmp results ***/
 abc is less than xyz
 

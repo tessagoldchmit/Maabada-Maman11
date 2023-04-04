@@ -8,6 +8,10 @@ Enter string 2:
 Enter n (used for my_strncmp):
 Enter c (used for my_strchr):
 
+The strings that were entered are Hello, Hella.
+The param n equals to 3.
+The param c equals to 108.
+
 /*** my_strcmp results ***/
 Hello is greater than Hella
 

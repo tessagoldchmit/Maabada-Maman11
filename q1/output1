@@ -8,6 +8,10 @@ Enter string 2:
 Enter n (used for my_strncmp):
 Enter c (used for my_strchr):
 
+The strings that were entered are aaaaabbb, aaaaaaaa.
+The param n equals to 4.
+The param c equals to 98.
+
 /*** my_strcmp results ***/
 aaaaabbb is greater than aaaaaaaa
 
