@@ -1,0 +1,5 @@
+The function summarizes and returns the number of bits that are turned on in even indexes.
+Enter a number for the test:
+
+The number that was entered is 85.
+Number of even-indexed bits that are on: 4
