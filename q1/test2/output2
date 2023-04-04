@@ -1,0 +1,18 @@
+In the following code we will run 3 functions that implement the functions strcmp, strncmp, strchr.
+For the my_strcmp function we will receive 2 strings.
+For the my_strncmp function we will also receive a number n.
+For the my_strchr function we will receive a character c and check if it appears in the first string that was entered.
+
+Enter string 1:
+Enter string 2:
+Enter n (used for my_strncmp):
+Enter c (used for my_strchr):
+
+/*** my_strcmp results ***/
+Hello is greater than Hella
+
+/*** my_strncmp results ***/
+Hello is equal to Hella for the first 3 characters
+
+/*** my_strchr results ***/
+The index of l in Hello is 2
